@@ -1,0 +1,11 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+    }
+}
+
+rootProject.name = 'AutoShop'
+include 'autoshop-server'
+include 'autoshop-ui'
+include 'autoshop-ui'
+
